@@ -54,6 +54,7 @@ button:focus {
 
 .logo {
   font-size: 18px;
+  font-weight: 700; 
   font-family: 'Raleway', sans-serif;
   text-decoration: none;
   line-height: 1.17;
